@@ -24,7 +24,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🔘 Buttons & Bookmarks for Page Navigation
 * 🖱️ Drill-Through Functionality
 
-[ 📁 View Full Project 1 Details (README)](.\Dashboard_V1\README.md)
+[ 📁 View Full Project 1 Details (README)](./Dashboard_V1/README.md)
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
 
@@ -43,7 +43,7 @@ Key Power BI Skills Utilized (demonstrating progression):
 * 🎛️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[ 📁 View Full Project 2 Details (README)](.\Dashboard_V2\README.md)
+[ 📁 View Full Project 2 Details (README)](./Dashboard_V2/README.md)
 
 ---
 
