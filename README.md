@@ -24,13 +24,12 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🔘 Buttons & Bookmarks for Page Navigation
 * 🖱️ Drill-Through Functionality
 
-[ 📁 View Full Project 1 Details (README)](./Dashboard_v1/README.md)
+[ 📁 View Full Project 1 Details (README)](.\Dashboard_V1\README.md)
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
 
 ![Data Jobs Dashboard 2.0](/images/Project2_Page1.png)
 
-[ 🌐 View Interactive Dashboard on Power BI Service ](https://lukeb.co/powerbi-project2)
 
 Key Power BI Skills Utilized (demonstrating progression):
 * 🎨 Advanced Dashboard Design (Single-Page UX & Optimization)
@@ -44,7 +43,7 @@ Key Power BI Skills Utilized (demonstrating progression):
 * 🎛️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[ 📁 View Full Project 2 Details (README)](./Dashboard_v1/README.md)
+[ 📁 View Full Project 2 Details (README)](.\Dashboard_V2\README.md)
 
 ---
 
